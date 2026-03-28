@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ed4ef3b1-b822-4300-9593-adc90c2267e6": {
+      "ProjectGuid": "ed4ef3b1-b822-4300-9593-adc90c2267e6",
+      "DisplayName": "dx1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "その他のファイル",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
