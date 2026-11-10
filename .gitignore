@@ -1,0 +1,41 @@
+# Visual Studio local settings and caches
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.VC.opendb
+
+# Build directories (including nested project output)
+Debug/
+Release/
+x64/
+x86/
+.publish-build/
+
+# Generated binaries and compiler/linker output
+*.exe
+*.dll
+*.obj
+*.obj.*
+*.pdb
+*.idb
+*.ilk
+*.iobj
+*.ipdb
+*.ipch
+*.tlog
+*.tlog/
+*.exe.recipe
+*.FileListAbsolute.txt
+
+# Runtime and build logs
+Log.txt
+*.log
+
+# Local secrets
+.env
+.env.*
+!.env.example
+!.env.sample
