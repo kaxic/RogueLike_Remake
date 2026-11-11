@@ -1,4 +1,4 @@
-# RogueLike
+# RogueLike_Remake
 
 C++ と DxLib で制作している Windows 向けのローグライクゲームです。現在は既存実装をクラス構成へ整理しながら開発しています。
 
