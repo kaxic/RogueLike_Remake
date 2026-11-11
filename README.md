@@ -25,7 +25,7 @@ Game/
 ├── DxLib/
 │   ├── DxLib.h
 │   └── *.lib
-└── RogueLike/
+└── RogueLike_Remake/
     ├── dx1.sln
     ├── dx1.vcxproj
     └── Graphic/
